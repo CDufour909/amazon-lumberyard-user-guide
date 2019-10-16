@@ -36,7 +36,7 @@ The code sample above does the following:
 The following two console variables, or CVars, affect the localization system:
 
 `g_language`  
-The name of the current language that the game uses\. Is set to **English** by default\.
+The name of the current language that the game uses\. Is set to **en-US** by default\.
 
 `sys_localization_folder`  
 The directory used for finding localization assets\. This directory contains either language PAK files or 'loose' localized text XML files\.
